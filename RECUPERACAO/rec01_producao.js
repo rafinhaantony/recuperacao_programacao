@@ -1,6 +1,6 @@
-const qtd = 75
-const horas = 8
+const qtd = 75;
+const horas = 8;
 
-const total = qtd * horas
+const total = qtd * horas;
 
-console.log(`Produção total: ${total}`)
+console.log(`Produção total: ${total}`);

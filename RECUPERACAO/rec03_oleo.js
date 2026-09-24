@@ -7,6 +7,6 @@ if (nivel <=40) {
 } else if (nivel >40 && nivel <= 80) {
     console.log("NÍVEL NORMAL!");
 } else {
-    console.log("INSPEÇÃO NECESSÁRIA!")
+    console.log("INSPEÇÃO NECESSÁRIA!");
 }
-console.log( nivel, "%")
+console.log( nivel, "%");
